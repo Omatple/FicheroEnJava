@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personas>
+    <persona edad="20" nombre="Pepe"/>
+    <persona edad="12" nombre="Juan"/>
+    <persona edad="40" nombre="Miguel"/>
+    <persona edad="12" nombre="Melodie"/>
+    <persona edad="34" nombre="Angel"/>
+</personas>
